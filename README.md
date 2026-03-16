@@ -1,6 +1,6 @@
 # Credit Default Swap (CDS) - Pricing & Risk Analytics POC
 
- **Live Demo:** [Click here to access the interactive Streamlit Web App]([LIEN_STREAMLIT_ICI])
+ **Live Demo:** [Click here to access the interactive Streamlit Web App]([https://cds-pricing-emmanuel.streamlit.app])
 
 This repository contains a Proof of Concept (POC) demonstrating the operational deployment of a Credit Default Swap (CDS) pricer. It bridges quantitative credit risk modeling with an interactive, production-ready web interface.
 
